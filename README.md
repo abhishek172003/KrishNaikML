@@ -4,8 +4,11 @@ Best repo for revising all ML concepts in Fast way
 Contents->
 
 1.Intro to ML Algo
+
 2.Simple Linear Regression Indepth maths tut
+
 3.Linear Regression Algo Practical Implementation
+
 4.Mean Sqaured Error, Mean Absolute Error And RMSE 
 5.Ridge and Lasso Regression Intut
 6.Ridge and Lasso Practical Implementation
